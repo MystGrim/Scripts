@@ -1,2 +1,2 @@
 # Scripts
-loadstring(game:HttpGet(('Link here'),true))()
+loadstring(game:HttpGet("Link.txt"))();
